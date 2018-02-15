@@ -1,0 +1,4 @@
+User Stories
+1. As a user, I want to be able to skip the tutorial, so I can jump straight into the game.
+2. As an advanced player, I want to choose the level of difficulty, so I can challenge myself.
+3. As a beginner player, I want an appendix of the items, so I can understand how each item affects my game status.

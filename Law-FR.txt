@@ -1,0 +1,4 @@
+Functional Requirements
+1. The system shall display a “Skip” button on the screen during the tutorial that will skip the entire tutorial.
+2. The system shall allow the player to choose “Easy”, “Medium”, or “Hard” at the beginning of every game.
+3. The system shall display an appendix with all items and descriptions accessible from the main menu.
