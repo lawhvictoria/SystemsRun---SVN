@@ -1,0 +1,3 @@
+1. As a competitive player, I want a high score board, so that I can try to beat my previous scores.
+2. As a busy player, I want to be able to pause the game, so that I can attend to my responsibilities during a game.
+3. As a user, I want to be able to change the game’s window size, so that I can play the game at my preferred resolution and size.
