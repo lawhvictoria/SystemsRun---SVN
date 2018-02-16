@@ -1,0 +1,5 @@
+Functional Requierments
+
+The system shall provide the user with a choice of either a male or female avatar at the start of the game. 
+The system shall alert the player when a collision occurs with a graphic.
+The system shall allow users to change the volume of the music. 

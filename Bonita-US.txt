@@ -1,0 +1,5 @@
+User Stories
+
+As a user, I want a visiual que when objects interact, so I don't have to have my volume on.
+As a user, I want to be able to change the volume, so that I can have it quiet if I am playing in public without headphones.
+As a female user, I want to be able to play as a female avatar, so that I can feel represented.
