@@ -1,0 +1,3 @@
+The system shall have player experience levels.
+The system shall allow users to pause during the game.
+The system shall have an animation for everything the player can interact with.

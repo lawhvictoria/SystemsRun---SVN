@@ -1,0 +1,3 @@
+As a busy player, I want to be able to pause the game, so that I can pick up where I left off.
+As an advanced player, I want experience levels, so I have something to work towards.
+As a player, I want animations for things I can interact with, so that I am immersed.
