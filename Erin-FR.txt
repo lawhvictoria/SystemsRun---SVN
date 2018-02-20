@@ -1,0 +1,5 @@
+Functional Requirements
+
+The game will have an overall score that the game displays
+The game will have a scoreboard that the players can view
+The game shall have a tutorial that anyone can access from the home screen
