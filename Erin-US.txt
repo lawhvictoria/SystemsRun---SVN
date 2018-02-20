@@ -1,0 +1,5 @@
+User Stories
+
+As a beginner, I want a tutorial, so that I can understand the game mechanics. 
+As a competitor, I want a scoreboard, so I can see how I stack up against others. 
+As a player, I want a score, so I can see myself improving. 
